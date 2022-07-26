@@ -12,8 +12,8 @@
 * 2주차(2022/06/07) : [**2장 리팩터링 원칙**](https://github.com/hmg0616/refactoring-study/issues/2), 발표자 : 김유진
 * 3주차(2022/06/20) : [**3장 코드에서 나는 악취**](https://github.com/hmg0616/refactoring-study/issues/3), 발표자 : 권동희
 * 4주차(2022/07/05) : [**4장 테스트 구축하기**](https://github.com/hmg0616/refactoring-study/issues/4), 발표자 : 김유진
-* 5주차(2022/07/19) : [**6장 기본적인 리팩터링**](https://github.com/hmg0616/refactoring-study/issues/5), 발표자 : 권동희
-* 6주차(2022/07/26) : [**6장 기본적인 리팩터링**](https://github.com/hmg0616/refactoring-study/issues/6), 발표자 : ?
+* 5주차(2022/07/19) : [**6장 기본적인 리팩터링(6.1 ~ 6.7)**](https://github.com/hmg0616/refactoring-study/issues/5), 발표자 : 권동희
+* 6주차(2022/07/26) : [**6장 기본적인 리팩터링(6.8 ~ 6.11)**](https://github.com/hmg0616/refactoring-study/issues/6), 발표자 : 정서원
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
