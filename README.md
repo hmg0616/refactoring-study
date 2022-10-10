@@ -19,8 +19,8 @@
 * 9주차(2022/09/20) : [**8장 문장 슬라이드하기(8.6 ~), 9장 데이터 조직화**](https://github.com/hmg0616/refactoring-study/issues/11), 발표자 : 한문규
 * 10주차(2022/10/04) : [**10장 조건부 로직 간소화**](https://github.com/hmg0616/refactoring-study/issues/12), 발표자 : 정서원
 * 11주차(2022/10/11) : [**11장 API 리팩터링(~11.8)**](https://github.com/hmg0616/refactoring-study/issues/13), 발표자 : 김유진
-* 11주차(2022/10/11) : [**11장 API 리팩터링(11.9~) ~ 12장 상속 다루기(~12.3)**](https://github.com/hmg0616/refactoring-study/issues/14), 발표자 : 한문규
-* 11주차(2022/10/11) : [**12장 상속 다루기(12.4~)**](https://github.com/hmg0616/refactoring-study/issues/15), 발표자 : 권동희
+* 12주차(2022/10/18) : [**11장 API 리팩터링(11.9~) ~ 12장 상속 다루기(~12.3)**](https://github.com/hmg0616/refactoring-study/issues/14), 발표자 : 한문규
+* 13주차(2022/10/25) : [**12장 상속 다루기(12.4~)**](https://github.com/hmg0616/refactoring-study/issues/15), 발표자 : 권동희
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
